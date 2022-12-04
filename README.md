@@ -5,7 +5,7 @@ The Abyss II - 2.X.X is a work in progress rewrite of the original "The Abyss" m
 Currently under developement
 
 Credits:
-JEI Compatiblietie - KhanhPham05 
+JEI Compatibliety - KhanhPham05 
 TheAbyss - Y3Z0N / Y4Z0N
 Structures - Y3Z0N / TelephaticGrunt thanks for all your Tutorials!
 
